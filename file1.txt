@@ -1,2 +1,4 @@
 hello
 modifying the file with new line
+third line
+fouth line
