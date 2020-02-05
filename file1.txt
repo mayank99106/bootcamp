@@ -1,2 +1,4 @@
 hello
 modifying the file with new line
+stash
+this is extra line in new branch
